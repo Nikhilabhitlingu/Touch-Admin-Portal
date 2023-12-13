@@ -1,0 +1,60 @@
+.login{
+   
+    text-align: center;
+    padding: 10px;
+    background-color:transparent ;
+    margin-left: 550px;
+    margin-right: 350px;
+    border: 2px solid rgb(239, 237, 237);
+    /* border-radius: 40px; */
+    box-shadow: 5px 7px 10px black;
+    margin-top: 90px;
+    /* background-image: url(""); */
+    width: 400px;
+    height: 500px;
+    
+}
+.feild{
+    display: inline-block;
+    box-sizing:border-box;
+    
+}
+
+.input{
+    margin-right: 150px;
+    border:none;
+    width:150px;
+    height:20px;
+}
+.heading{
+    text-align: center;
+    margin-top: 20px;
+    color: purple;
+}
+.username{
+    font-size: 20px;
+    margin-right: 230px;
+}
+.password{
+    font-size: 20px;
+    margin-right: 70px;
+    width: 230px;
+    border: none;
+   
+}
+.password1{
+    font-size: 20px;
+    margin-right: 230px;
+    margin-top: 30px;
+}
+.part1{
+    margin-top: 40px;
+}
+.part2{
+    margin-top: 20px;
+}
+.submit{
+    background-color:purple;
+    width:100px;
+    height: 40px;
+}

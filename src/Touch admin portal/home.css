@@ -1,0 +1,107 @@
+
+.navbar {
+width:300px;
+background-color: rgb(12, 12, 12);
+height: 800px;
+color: white; 
+position:fixed;
+
+}
+.image1{
+
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.image2{
+    margin-left: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.admin{
+    margin-left: 80px;
+    word-spacing: 0px;
+}
+
+.dashboard:hover{
+    font-weight: bolder;
+}
+.dashboard{
+    font-weight: lighter;
+    letter-spacing: 2px;
+    display: inline;
+    margin-left: 20px;
+    margin-top:50px;
+}
+.users{
+    font-weight: lighter;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    display: inline;
+    margin-top: 20px;
+    
+}
+
+.reports{
+    font-weight: lighter;
+    letter-spacing: 2px;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+.leaderboard{
+    font-weight: lighter;
+    letter-spacing: 2px;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.settings{
+    font-weight: lighter;
+    letter-spacing: 2px;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 20px;
+ 
+}
+#home{
+    margin-left: 30px;
+    margin-top: 90px;
+}
+#user{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#report{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#setting{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#chart{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    height: 100px;
+   }
+.Leaderblock{
+margin-top: 200px;  
+}
+#arrow{
+    margin-left: 40px;
+}
+.leaderbord{
+    margin-left: 70px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+}
+.pointsrule{
+    margin-left: 70px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}

@@ -1,0 +1,25 @@
+.block{
+    height: 40px;
+    width:1150px;
+    background-color:white;
+    margin-top: 90px;
+    margin-left: 350px;
+    border-radius: 10px;
+     box-shadow: 5px 5px 5px rgb(162, 158, 158);
+     padding-left: 40px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     font-size: 30px;
+     color: black;
+     text-align: left;
+     display: flex;
+     justify-content: left;
+}
+.report{
+    margin-left: 800px;
+    color: purple;
+     letter-spacing: 1px;
+     position: relative;
+     top: -35px;
+     font-weight: bold;
+}

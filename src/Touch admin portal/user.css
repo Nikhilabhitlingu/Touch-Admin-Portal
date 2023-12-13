@@ -1,0 +1,194 @@
+
+.five{
+   margin-right: 30px;
+}
+
+     .search{
+   
+      height: 60px;
+      width:1150px;
+      background-color:white;
+      margin-top: 90px;
+      margin-left: 350px;
+      border-radius: 10px;
+       box-shadow: 5px 5px 5px rgb(162, 158, 158);
+       padding-left: 40px;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       font-size: 30px;
+       color: black;
+       text-align: left;
+       display: flex;
+       justify-content: left;
+       
+
+}
+.input{
+   margin: 5px 70px;
+   display: flex;
+   margin-top: 0px;
+}
+
+.iconbutton{
+   width: 70px;
+   height: 20px;
+   background-color: rgb(6, 6, 6);
+   margin: 50px 5px;
+   font-size: large;
+   margin-top: 10px;
+ 
+}
+.label{
+   display: flex;
+   margin-top: 20px;
+}
+.search-container {
+   display: inline-block;
+   position: relative;
+   text-align: left;
+  }
+  
+  .search-container input[type=text] {
+   padding: 6px;
+   font-size: 17px;
+   border: none;
+   outline: none;
+   width: 200px;
+   background:whitesmoke;
+  }
+  
+  .search-container button {
+   padding: 6px 10px;
+   margin-left: -4px;
+   background:purple;
+   font-size: 17px;
+   border: none;
+   cursor: pointer;
+  }
+  
+  .search-container button:hover {
+   background:white;
+  }
+  
+  @media screen and (max-width: 600px) {
+   .search-container input[type=text], .search-container button {
+      width: 100%;
+   }
+  }
+  .usercount{
+   margin-left: 850px;
+  color: purple;
+   margin:0px 1px 0px 900px;
+   position: relative;
+   top: -30px;
+   
+  }
+
+
+.table {
+   margin-left: 400px;
+   padding-left: 90px;
+   background-color: white;
+   border-collapse: collapse;
+   box-shadow: 5px 5px 5px black;
+   margin-top: 90px;
+   width: 1000px;
+ }
+ 
+ .table h3 {
+   text-align: center;
+   margin-bottom: 10px;
+ }
+ 
+ .headings {
+   text-align: center;
+   display: flex;
+
+ }
+ 
+ .headings > td {
+   flex: 1;
+   margin-top: 30px;
+   padding: 8px;
+   text-align: center;
+ }
+ 
+ .tabledata {
+   border-bottom: 1px solid #ccc;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+ }
+ 
+ .userid,
+ #firstname,
+ #lastname,
+ #userprofile {
+   flex: 1;
+  
+   padding: 8px;
+   text-align: center;
+ }
+ 
+ .imageusername {
+   flex: 2;
+   display: flex;
+   align-items: center;
+   margin-left: 80px;
+ }
+ 
+ .imageusername img {
+   margin-right: 8px;
+   border-radius: 40px;
+ }
+ 
+ .imageusername h6 {
+   margin: 0;
+ }
+ 
+ /* Responsive Styles */
+ @media screen and (max-width: 600px) {
+   .table {
+     width: 100%;
+     margin-left: 0;
+     padding-left: 0;
+   }
+ 
+   .headings {
+     flex-direction: column;
+     align-items: center;
+   }
+ 
+   .headings > td {
+     width: 100%;
+     margin-left: 0;
+   }
+ 
+   .userid,
+   #firstname,
+   #lastname,
+   #userprofile,
+   .imageusername {
+     width: 100%;
+     margin-left: 0;
+   }
+ }
+ 
+ #firstname{
+   margin-right: 150px;
+ }
+ #lastname{
+   margin-right: 40px;
+ }
+ #userprofile{
+   margin-right: 30px;
+ }
+ .user{
+   margin-right: 40px;
+   font-weight: bolder;
+   font-size: 29px;
+   letter-spacing: 1px;
+   padding: 20px;
+   display: inline-block;
+   color: purple;
+ }

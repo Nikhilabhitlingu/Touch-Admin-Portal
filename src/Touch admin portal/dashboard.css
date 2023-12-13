@@ -1,0 +1,191 @@
+.apidata{
+    /* color:white; */
+    margin-left: 300px;
+    margin-top: 90px;
+    display: flex;
+    margin-right: 30px;
+    /* margin-bottom: 50px; */
+}
+#container{
+    width:200px;
+    height: 230px;
+    background-color: white;
+    /* box-shadow: 5px 5px 5px black; */
+    margin-left: 30px;
+    /* margin-right: 30px; */
+    margin-bottom: 50px;
+    border:1px solid rgb(169, 165, 165);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: lighter;
+}
+/* .dropdown {
+    position: relative;
+    display: inline-block;
+   }
+   
+   .dropdown-btn {
+    background-color:white;
+    color:black;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    width: 160px;
+    text-align: left;
+   }
+   
+   .dropdown-btn:hover {
+    background-color:white;
+   }
+   
+   .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+   }
+   
+   .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+   }
+   
+   .dropdown-content a:hover {
+    background-color: #ddd;
+   }
+   
+   .dropdown:hover .dropdown-content {
+    display: block;
+   }
+   
+   .dropdown:hover .dropdown-btn {
+    background-color:white;
+   }
+    */
+   #dropdown{
+    margin-left: 400px;
+    margin-top: 50px;
+
+   }
+   .check{
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 50px;
+    background-color:purple;
+    color:white;
+    border-radius: 10px;
+
+    
+    display: inline-block;
+   }
+   .image{
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   }
+   #tag{
+    margin-left: 10px;
+    
+   }
+   .inputs{
+    margin-left: 20px;
+    display: inline-block; 
+     margin-top: 150px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+    display : flex;
+    align-items: center;
+    display: grid;
+    /* grid-template-columns: repeat(3, 1fr); */
+    /* grid-gap: 10px; */
+    /* width: 20px; */
+    display: inline-block;
+    margin-top: 20px;
+
+   }
+   .buttons{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+     margin-left: 350px;
+    margin-top: 80px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block;
+   
+   }
+   .all{
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-size: 20px;
+    color:purple;
+   }
+   .custom{
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    background-color:white;
+    font-weight: bolder;
+    border-radius: 10px;
+     font-size: 20px;
+     color:purple;
+   }
+   .week{
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    background-color:white;
+    color:purple;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+   }
+   .hrs{
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-size: 20px;
+    color:purple;
+   }
+   .input1{
+    width: 150px;
+    height: 40px;
+    margin-right: 10px;
+    background-color:white;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-size: 20px;
+    color:black;
+   }
+  
+   .input2{
+    width: 150px;
+    height: 40px;
+    margin-right: 10px;
+    background-color:white;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-size: 20px;
+    color:black;
+   }
+  .label{
+    font-size: 20px;
+    font-weight: bolder;
+    color:purple;
+  }

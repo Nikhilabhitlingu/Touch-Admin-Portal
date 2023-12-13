@@ -1,0 +1,16 @@
+.Name{
+    height: 40px;
+    width:1150px;
+    background-color:white;
+    margin-top: 20px;
+    margin-left: 350px;
+    border-radius: 10px;
+     box-shadow: 5px 5px 5px rgb(162, 158, 158);
+     padding-left: 40px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     font-size: 30px;
+     color: black;
+     text-align: left;
+     
+}
